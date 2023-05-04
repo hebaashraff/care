@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:beige;
+    font-family: Arial, sans-serif;
+    
+   }
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: #9dcf32;
+   }
+iframe {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: none;
+    align-items: center;
+   }
+
+  
+
+
+
+
+         
